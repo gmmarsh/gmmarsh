@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gmmarsh
-- 👀 I’m interested in Python, SQL and JavaScript for data analysis and data visualizaitons.
+- 👀 I’m interested in Python, SQL and JavaScript for data analysis and data visualizations.
 - 🌱 I’m currently learning Python, SQL and JavaScript.
 - 💞️ I’m looking to collaborate on data analysis and data visualization projects.
 - 📫 How to reach me: gmmarsh@gmail.com
